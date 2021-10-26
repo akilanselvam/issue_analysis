@@ -225,7 +225,7 @@
                     <manifest>
 
                     <!-- give full qualified name of your main class-->
-                      <mainClass>com.IssueAnalysis.IssueAnalysisApplication</mainClass>
+                      <mainClass>com.app.IssueAnalysis.IssueAnalysisApplication</mainClass>
 
                     </manifest>
                   </archive>
