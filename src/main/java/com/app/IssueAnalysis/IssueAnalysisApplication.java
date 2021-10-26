@@ -6,7 +6,6 @@ import org.springframework.scheduling.annotation.EnableAsync;
 
 @SpringBootApplication
 @EnableAsync
-@PropertySource("classpath:application.properties")
 public class IssueAnalysisApplication {
 
 	public static void main(String[] args) {
